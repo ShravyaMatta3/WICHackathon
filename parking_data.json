@@ -1,0 +1,4 @@
+[
+    { "id": 1, "name": "Lot A", "total_spaces": 100, "available_spaces": 60 },
+    { "id": 2, "name": "Lot B", "total_spaces": 80, "available_spaces": 20 }
+]
